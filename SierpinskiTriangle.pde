@@ -16,7 +16,6 @@ public void mouse()//optional
 {
   r=mouseX/1.5687;
   b=mouseY/1.5687;
-  g=mouseX+mouseY/0.78431;
 }
 public void sierpinski(int x, int y, int len) 
 {
